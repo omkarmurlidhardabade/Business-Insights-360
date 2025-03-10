@@ -2,6 +2,7 @@
 
 **Project Overview**
 This project focuses on enhancing the operational efficiency of AtliQ Hardware by streamlining Finance, Sales, Supply Chain, Executive Management, and Marketing functions. The key objectives and accomplishments for each domain are detailed below.
+
 **Live Dashboard Link**: https://app.powerbi.com/view?r=eyJrIjoiZjUxYzgyZjktYWY4ZS00MjIzLWE2NDMtNDdhMzAwZGU1YTBjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ________________________________________
