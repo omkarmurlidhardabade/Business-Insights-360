@@ -1,4 +1,4 @@
-**Business-Insights--360**
+**Business-Insights-360**
 
 **Project Overview**
 This project focuses on enhancing the operational efficiency of AtliQ Hardware by streamlining Finance, Sales, Supply Chain, Executive Management, and Marketing functions. The key objectives and accomplishments for each domain are detailed below.
